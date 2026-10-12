@@ -3,6 +3,9 @@ Unity Built-in Terrain shader with **VRC Light Volume** and **Bakery GPU Lightma
 
 <img src="https://github.com/github-harunadev/TerrainLV/blob/main/preview.png?raw=true" />
 
+I (personally) wanted a fast way to use LV and Bakery SH/Mono SH with Unity Terrain, so I used Claude to implement the LV, and Gemini to implement the SH.
+This means the result shader is made by AI, so keep that in mind if you're aware of.
+
 TerrainLVSH is an enhanced fork of [TerrainLV](https://github.com/github-harunadev/TerrainLV). It brings native support for **Bakery's SH (Spherical Harmonics) and MonoSH directional lightmaps** to Unity terrains while retaining full compatibility with **VRC Light Volumes**.
 
 ## Features
